@@ -4,6 +4,9 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Cloud-orange.svg)](https://firebase.google.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+
+> ⚠️ **Warning**: This application was developed in **2019** and may be deprecated. Some dependencies and configurations might be outdated. Please check compatibility before use.
+
 ## 📱 Overview
 
 Nikazhthi is a comprehensive marketplace platform that connects businesses with customers through an efficient order management system. The app enables businesses to register their service centers, manage time slots, and receive automated reminders, while customers can easily search, book, and pay for services at their preferred business centers.
